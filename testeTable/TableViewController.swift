@@ -10,7 +10,7 @@ import UIKit
 
 class TableViewController: UITableViewController {
     var arrayCount = ["a","b","c"]
-    var aaaa = true
+    var aaaa = false
 
     override func viewDidLoad() {
         super.viewDidLoad()
